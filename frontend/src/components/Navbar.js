@@ -36,14 +36,14 @@ function Navbar() {
                 Service
               </NavLink>
             </li>
-            <li>
+           /*  <li>
               <NavLink 
                 to="/hilfe"
                 className={({ isActive }) => (isActive ? 'active' : '')}
               >
                 Hilfe
               </NavLink>
-            </li>
+            </li> */
             <li>
               <NavLink 
                 to="/Contact"
