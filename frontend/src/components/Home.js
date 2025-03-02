@@ -17,7 +17,7 @@ function Home() {
 		</div>
 		<div className="contact-info">
 		  <FaPhoneAlt className="contact-icon" />
-		  <h3>(+49) 0157 31936078</h3>
+		  <h3>+49 0157 31936078</h3>
 			   <motion.div
 			   className="whatsapp-icon"
 				animate={{ scale: [1, 1.2, 1] }} // Pulsing effect
