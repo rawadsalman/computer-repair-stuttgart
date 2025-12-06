@@ -3,7 +3,7 @@ import React from 'react';
 import Services from './Services';
 import { FaPhoneAlt, FaWhatsapp } from 'react-icons/fa';
 import { motion } from "framer-motion";
-import whatsappBarcode from '../whatsapp-barcode.png';
+import Whatsapp-barcode from '../Whatsapp-barcode.jpg';
 
 
 import '../styles/home.css'; 
