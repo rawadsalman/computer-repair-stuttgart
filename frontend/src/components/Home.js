@@ -3,7 +3,7 @@ import React from 'react';
 import Services from './Services';
 import { FaPhoneAlt, FaWhatsapp } from 'react-icons/fa';
 import { motion } from "framer-motion";
-import Whatsapp-barcode from '../Whatsapp-barcode.jpg';
+import Whatsapp-barcode-4 from '../Whatsapp-barcode-4.jpg';
 
 
 import '../styles/home.css'; 
@@ -28,7 +28,7 @@ function Home() {
                <FaWhatsapp style={{ fontSize: "40px", color: "#25D366" }}/>
                </motion.div>
 			<img
-              src={whatsappBarcode}
+              src={Whatsapp-barcode-4}
               alt="WhatsApp Barcode"
               style={{ width: "100px", marginLeft: "10px" }}
             />
